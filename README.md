@@ -5,3 +5,6 @@
 
 ## #2: Palindromic
 ##### Write a program that finds the longest palindromic substring of a given string.
+
+## #3: Leap Years
+##### Write a program that will print the next 30 leap years, so our Feb 29th buddies can know when they get to celebrate
